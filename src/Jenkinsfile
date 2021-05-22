@@ -1,4 +1,4 @@
-@Library('mail_list') _
+
 
 pipeline{
 	agent any
